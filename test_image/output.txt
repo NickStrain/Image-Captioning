@@ -1,0 +1,209 @@
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: bone teeth clown give that bald huddled leafy modern double exhibit waterfall superman tires beyond playground sweaters race paddle squirting pirate diving air superman tires watery chairlift kitchen misty horizontal horizontal equestrian watermelon lighting climbers large bald zoo snowball sniffs dining star clears teaches hold barking french wheeled chewing calm
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: glides alleyway dunks approaches mat fence a posed formal drummer attire overhang cords wade hospital deflated pop pop part misty cafe chicken mittens mittens mittens mittens ducks neighborhood canoes target concrete paints numerous period walk logs stone pick try paddles boa equestrian similar guitars porch speaking navy colorfully silver container
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: glides alleyway dunks approaches mat fence a posed formal drummer attire overhang cords wade hospital deflated pop pop part misty cafe chicken mittens mittens mittens mittens ducks neighborhood canoes target concrete paints numerous period walk logs stone pick try paddles boa equestrian similar guitars porch speaking navy colorfully silver container
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: asian observe fashion what , begins turn t vertical superman tires watery ties tiger equestrian does works photographer skimpy downtown raft beyond selling selling treads rocky touching stuff kitten soaring dry desert waiting splashed rabbit boxers boxers patch huddle warm computers calm frozen lying goat car hurdle skies photographer peeking
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: bone teeth clown give that bald huddled leafy modern double exhibit waterfall superman tires beyond playground sweaters race paddle squirting pirate diving air superman tires watery chairlift kitchen misty horizontal horizontal equestrian watermelon lighting climbers large bald zoo snowball sniffs dining star clears teaches hold barking french wheeled chewing calm
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a man in a red shirt is running on a <UNK> . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a man in a red shirt is running on a <UNK> . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a man in a red shirt is running on a <UNK> . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a man in a red shirt is running on a <UNK> . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> a man in a red shirt is running on a <UNK> . <EOS>
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a man in a red shirt is standing on a red ball . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a man in a red shirt is standing on a red ball . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a man in a red shirt is standing on a red ball . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a man in a red shirt is standing on a red ball . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> a man in a red shirt is standing on a red ball . <EOS>
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a man in a red shirt is standing on a beach . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a man in a red shirt is standing on a beach . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a man in a red shirt is standing on a beach . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a man in a red shirt is standing on a beach . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> a man in a red shirt is standing on a beach . <EOS>
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a man in a red shirt is standing on a rock . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a man in a red shirt is standing on a beach . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> a man in a red shirt is standing on a beach . <EOS>
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a man in a red shirt is standing on a bench . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a man in a red shirt is standing on a bench . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> a man in a red shirt is standing on a bench . <EOS>
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a man in a red shirt is sitting on a bench . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a group of people are standing on a sidewalk . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> a man in a black shirt and a black hat and a black jacket is standing on a rock . <EOS>
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a black dog is running through the grass . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a man in a red shirt is standing on a bench . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a man in a black shirt and a black hat and a black hat is standing on a bench . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a man in a black shirt and a black shirt is standing on a rock wall . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a young boy in a red shirt is playing with a ball in a pool . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a group of people are standing on a bench in front of a building . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a man in a red shirt is riding a bike on a dirt bike . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> a group of people are standing on a bench in front of a building . <EOS>
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a young boy in a red shirt is playing with a ball in his mouth . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a group of people are standing on a rock . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a man is riding a bike on a dirt bike . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> two dogs are playing in the snow . <EOS>
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a young boy in a blue shirt is jumping into a pool . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a group of people are standing on a rock overlooking a lake . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a man is riding a bike on a dirt bike . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> a man in a blue shirt is riding a bike on a dirt bike . <EOS>
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a young boy in a blue shirt is playing with a ball in his mouth . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a group of people are standing on a rocky beach . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a man is standing on a rock overlooking a rock . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> a group of people are standing on a rocky beach . <EOS>
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a young boy in a red shirt is jumping into a pool . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a man in a red shirt and a black hat is standing on a bench . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a man is riding a bike on a dirt bike . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> a group of people are standing on a rock overlooking a lake . <EOS>
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a young boy wearing a blue shirt is playing with a ball in his mouth . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a man in a red shirt is standing on a rock . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a man is riding a bicycle down a snowy hill . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> two people are riding a bike on a dirt track . <EOS>
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a young girl in a pink shirt is sitting on a swing . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a man in a red shirt is riding a bike on a sidewalk . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a man in a red shirt is riding a bike on a dirt road . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> a group of dogs are running through the snow . <EOS>
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a little girl in a pink shirt is jumping over a hurdle . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a man in a black shirt and a black hat is standing on a sidewalk . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a person in a red jacket is riding a bike on a dirt road . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> two people are standing on a rock overlooking the ocean . <EOS>
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a young boy in a red shirt is jumping on a trampoline . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a man in a red shirt is standing on a sidewalk . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a man in a red shirt is riding a bike on a dirt road . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> two dogs are running through the snow . <EOS>
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a young girl in a pink shirt is standing on a rock wall . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a man in a red shirt is riding a bicycle down a street . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a man is standing on a rock overlooking a lake . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> a group of dogs are running through the snow . <EOS>
+                                                 
+Example 1 CORRECT: Dog on a beach by the ocean
+Example 1 OUTPUT: <SOS> a dog is running through the grass . <EOS>
+Example 2 CORRECT: Child holding red frisbee outdoors
+Example 2 OUTPUT: <SOS> a young boy in a red shirt is playing with a toy . <EOS>
+Example 3 CORRECT: Bus driving by parked cars
+Example 3 OUTPUT: <SOS> a man in a black shirt and a black hat is standing on a sidewalk . <EOS>
+Example 4 CORRECT: A small boat in the ocean
+Example 4 OUTPUT: <SOS> a man is riding a bicycle on a dirt bike . <EOS>
+Example 5 CORRECT: A cowboy riding a horse in the desert
+Example 5 OUTPUT: <SOS> two men are standing on a beach . <EOS>
+ 71%|███████   | 449/633 [07:08<02:54,  1.05it/s]
